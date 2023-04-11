@@ -1,0 +1,28 @@
+1) To clone repository 
+git clone https://github.com/vinaykanigicherla/amazon_reviews_sentiment.git
+
+if get ssl certificate error then add -c http.sslVerify=false
+
+git -c http.sslVerify=falseclone https://github.com/vinaykanigicherla/amazon_reviews_sentiment.git
+
+2) to initialize
+git init
+
+3) to add files
+git add README.md
+or all files in current directory
+git add .
+
+4) to comite the changes
+git commit -m "first commit"
+
+5) to cheackout the branch main
+git branch -M main
+
+6) add origin to shink with this git repo
+git remote add origin https://github.com/Master-Gogo/to_delete.git
+
+where url is your newly created repo
+
+7) to push the files on git
+git push -u origin main
