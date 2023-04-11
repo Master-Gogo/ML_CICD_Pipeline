@@ -3,9 +3,9 @@ git clone https://github.com/vinaykanigicherla/amazon_reviews_sentiment.git
 
 if get ssl certificate error then add -c http.sslVerify=false
 
-git -c http.sslVerify=false clone https://github.com/vinaykanigicherla/amazon_reviews_sentiment.git
+git -c http.sslVerify=falseclone https://github.com/vinaykanigicherla/amazon_reviews_sentiment.git
 
-2) to initialize
+2) to initialize git
 git init
 
 3) to add files
