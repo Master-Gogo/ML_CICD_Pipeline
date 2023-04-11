@@ -17,7 +17,7 @@ def get_requirements(file_path:str)->List[str]:
     return requirements
 
 setup(
-name='mlproject',
+name='ML_CICD_Pipeline',
 version='0.0.1',
 author='ganesh lahamge',
 author_email='ganeshlahamge0212@gmail.com',
