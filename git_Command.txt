@@ -19,10 +19,10 @@ git commit -m "first commit"
 5) to cheackout the branch main
 git branch -M main
 
-6) add origin to shink with this git repo
+6) add origin to shink with this git repo  # this command use just one when yo do first time
 git remote add origin https://github.com/Master-Gogo/to_delete.git
 
-where url is your newly created repo
+where url is your newly created repo 
 
 7) to push the files on git
 git push -u origin main
