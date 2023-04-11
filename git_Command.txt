@@ -1,4 +1,4 @@
-1) To clone repository 
+1) To clone git repository 
 git clone https://github.com/vinaykanigicherla/amazon_reviews_sentiment.git
 
 if get ssl certificate error then add -c http.sslVerify=false
